@@ -6,8 +6,9 @@
 <img align="right" alt="GIF" src="./GIFs/RotatingSeal.gif" width="300"/>
 
 ### About Me
-- 🧠 **First-Year CS & AI Student** @ IE University  
-- 🎮 Passionate about **game development**, **AI tools**, and creative coding projects  
+- 🧠 **First-Year CS & AI Student** @ IE University
+- 🎮 Real gamer and F1 fan
+- 🤓 Passionate about **game development**, **AI tools**, and creative coding projects  
 - ⚙️ Experienced with **Python**, **Unreal Engine**, and building personalized systems  
 - 🍺 Powered by RedBull and Beer coder, always exploring new tech and ideas  
 - 🌊 Enjoys kitesurfing and coding random projects in my free time  
@@ -48,6 +49,7 @@ Some of the coolest things I've worked on:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Inventure71&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+<img src="./Pics/CoolPic.jpg" alt="Funny Meme" width="200" align="right"/>
 
 ### 🛠️ Tools & Concepts I’m Exploring
 - **Advanced AI Prompt Engineering** for more intuitive interactions  
