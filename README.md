@@ -1,7 +1,6 @@
 # Matteo Giorgetti (aka Inventure71)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F7AEC&width=1000&lines=Computer+Science+%26+AI+Student;Game+Developer+%7C+AI+Enthusiast;Building+Smart+Tools+and+Creative+Projects)](https://git.io/typing-svg)
-
 ---
 
 <img align="right" alt="GIF" src="./GIFs/RotatingSeal.gif" width="300"/>
