@@ -28,7 +28,6 @@ Here are some of the tools I use:<br>
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inventure71&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inventure71&theme=github-dark-blue" alt="GitHub Streak" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventure71&layout=compact&theme=github_dark" alt="Top Languages" height="180px"/>
 </div>
 
@@ -67,6 +66,7 @@ Some of the coolest things I've worked on:
 </div>
 
 <!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Inventure71&theme=dark)](https://git.io/streak-stats)
 
 <img align="right" alt="Coding" width="200" src="./GIFs/RotatingSeal.gif">
 
