@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhmYzYweWxycjhtbHhxeHQwNW8wNjE3ODY2Nnh0OWZ4N2ZpbmlxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/enj50kao8gMfu/giphy.gif">
+
+  
 <!--
 **Inventure71/Inventure71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
