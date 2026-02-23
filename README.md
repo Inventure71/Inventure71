@@ -6,16 +6,29 @@
 <img align="right" alt="GIF" src="./GIFs/RotatingSeal.gif" width="300"/>
 
 ### 👋 About Me
-- 🧠 **First-Year CS & AI Student** @ IE University
-- 🎮 Real gamer and F1 fan
-- 🤓 Passionate about **game development**, **AI tools**, and creative coding projects
-- ⚙️ Experienced with **Python**, **Unreal Engine**, and building personalized systems
-- 🍺 Powered by RedBull and Beer, always exploring new tech and ideas
-- 🌊 Enjoys kitesurfing and coding random projects in my free time
+- **Second-Year CS & AI Student** @ IE University
+- Real gamer and F1 fan
+- Passionate about **game development**, **AI tools**, and creative coding projects
+- Experienced with **Python**, **Unreal Engine**, and building personalized systems
+- Powered by RedBull and Beer, always exploring new tech and ideas
+- Enjoys kitesurfing and coding random projects in my free time
 
 ---
 
-### 🔧 Tech Stack
+## Projects
+
+- **[ClipClop](https://github.com/Inventure71/ClipClop)** — Workflow acceleration & productivity tool
+- **[GenGame – Core Conflict](https://github.com/Inventure71/GenGame)** — Multiplayer experimental game with GenAI concepts  
+- **[Budget Buddy](https://github.com/Inventure71)** — AI-powered finance chatbot for smarter spending  
+- **[Neural Noir](https://github.com/Inventure71/Neural-Noir)** — Procedural AI-driven narrative experiment  
+- **[HoloVinyl](https://github.com/Inventure71/HoloVinyl)** — Computer vision gesture controller for touchless UI  
+- **[VictorIA](https://github.com/Inventure71/VictorIA)** — Game AI perception + decision-making system  
+- **[AlgorithmsProject](https://github.com/Inventure71/AlgorithmsProject)** — Pathfinding & game-logic experiments in Python/Pygame  
+- **[TypeCraft](https://github.com/Inventure71/TypeCraft)** — Human typing simulator for macOS
+
+---
+
+### Tech Stack
 Here are some of the tools I use:
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -27,7 +40,7 @@ Here are some of the tools I use:
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### GitHub Stats & Trophies
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inventure71&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventure71&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170px"/>
@@ -43,23 +56,6 @@ Here are some of the tools I use:
 
 ---
 
-### 🌟 Projects & Highlights
-Some of the coolest things I've worked on:
-1.  **AI-Powered Pokémon Card Generator**
-    - Leveraging text-to-image AI models to create unlimited custom Pokémon-style card art.
-    <!-- TODO: Add a GIF or screenshot, Example: <p align="center"><img src="./GIFs/Pokémon-demo.gif" alt="Game Jam Demo" width="400"/></p> -->
-
-2.  **Personalized Chatbot: Budget Buddy**
-    - A financial assistant chatbot that **teaches you how to spend smart, not less**, with actionable insights.
-    <!-- TODO: Add a GIF or screenshot, Example: <p align="center"><img src="./GIFs/budget-buddy-demo.gif" alt="Game Jam Demo" width="400"/></p> -->
-
-3.  **Game Jam Projects**
-    - Developed games using **Unreal Engine** and **Python integrations**, blending creativity with problem-solving.
-    <!-- TODO: Add a GIF or screenshot, Example: <p align="center"><img src="./GIFs/game-jam-demo.gif" alt="Game Jam Demo" width="400"/></p> -->
-
----
-
-### 📈 Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Inventure71&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -72,7 +68,7 @@ Some of the coolest things I've worked on:
 <div style="clear: both;"></div>
 
 <div align="center">
-  <h3>🛠️ Tools & Concepts I’m Exploring</h3>
+  <h3>Tools & Concepts I’m Exploring</h3>
   <p><strong>Advanced AI Prompt Engineering</strong> for more intuitive interactions</p>
   <p><strong>Computer Vision</strong> to analyze and interpret visual data</p>
   <p><strong>RAG Methods</strong> for robust knowledge retrieval</p>
@@ -82,8 +78,8 @@ Some of the coolest things I've worked on:
 
 ---
 
-### 📬 Connect with Me
 <div align="center">
+  <h3>Connect with Me</h3>
   <a href="https://www.linkedin.com/in/matteo-giorgetti-026172247/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn">
   </a>
