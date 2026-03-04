@@ -18,7 +18,8 @@
 ## Projects
 
 - **[ClipClop](https://github.com/Inventure71/ClipClop)** — Workflow acceleration & productivity tool
-- **[GenGame – Core Conflict](https://github.com/Inventure71/GenGame)** — Multiplayer experimental game with GenAI concepts  
+- **[GenGame – Core Conflict](https://github.com/Inventure71/GenGame)** — Multiplayer experimental game with GenAI concepts
+- **[Swarm Monitor](https://github.com/Inventure71/RobotMaintanance)** - Webpage with SSH-based backend that enables to monitor and fix hundreds of robots at the same time
 - **[Budget Buddy](https://github.com/Inventure71)** — AI-powered finance chatbot for smarter spending  
 - **[Neural Noir](https://github.com/Inventure71/Neural-Noir)** — Procedural AI-driven narrative experiment  
 - **[HoloVinyl](https://github.com/Inventure71/HoloVinyl)** — Computer vision gesture controller for touchless UI  
