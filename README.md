@@ -26,6 +26,7 @@
 - **[VictorIA](https://github.com/Inventure71/VictorIA)** — Game AI perception + decision-making system  
 - **[AlgorithmsProject](https://github.com/Inventure71/AlgorithmsProject)** — Pathfinding & game-logic experiments in Python/Pygame  
 - **[TypeCraft](https://github.com/Inventure71/TypeCraft)** — Human typing simulator for macOS
+- **[GDG Website](https://github.com/GDSC-IE/GDG_Hackathon_Website)** - GDG hackathon Website
 
 ---
 
