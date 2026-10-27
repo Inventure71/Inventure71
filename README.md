@@ -33,8 +33,6 @@
 
 Course assignments, exercises, and study material live on **[Inventure72](https://github.com/Inventure72)**. My [portfolio](https://mgiorgetti.com) brings selected work from both accounts together.
 
-My earlier [IB Extended Essay](https://github.com/Inventure71/Extended_Essay) explores how neural-network size affects performance across different tasks.
-
 ---
 
 ### Tech Stack
