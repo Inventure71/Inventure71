@@ -6,10 +6,10 @@
 <img align="right" alt="GIF" src="./GIFs/RotatingSeal.gif" width="300"/>
 
 ### 👋 About Me
-- **Second-Year CS & AI Student** @ IE University
+- **CS & AI Student** @ IE University
 - Real gamer and F1 fan
 - Passionate about **game development**, **AI tools**, and creative coding projects
-- Experienced with **Python**, **Unreal Engine**, and building personalized systems
+- Experienced with **Python**, **Swift/SwiftUI**, **JavaScript**, and **Unreal Engine**
 - Powered by RedBull and Beer, always exploring new tech and ideas
 - Enjoys kitesurfing and coding random projects in my free time
 
@@ -17,16 +17,23 @@
 
 ## Projects
 
-- **[ClipClop](https://github.com/Inventure71/ClipClop)** — Workflow acceleration & productivity tool
-- **[GenGame – Core Conflict](https://github.com/Inventure71/GenGame)** — Multiplayer experimental game with GenAI concepts
-- **[Swarm Monitor](https://github.com/Inventure71/RobotMaintanance)** - Webpage with SSH-based backend that enables to monitor and fix hundreds of robots at the same time
-- **[Budget Buddy](https://github.com/Inventure71)** — AI-powered finance chatbot for smarter spending  
+- **[VIGIL](https://github.com/Inventure71/VIGIL)** — Robot fleet dashboard for monitoring, SSH access, diagnostics, and recovery
+- **[Dream2Detect](https://github.com/Inventure71/Dream2Detect)** — Experiments in synthetic-to-real generalization for package defect detection
+- **[PaddockJS](https://github.com/Inventure71/PaddockJS)** — Embeddable JavaScript racing simulator with browser and headless APIs
+- **[ClipClop](https://github.com/Inventure71/ClipClop)** — Clipboard sync with QR pairing and encrypted configuration
+- **[GenGame – Core Conflict](https://github.com/Inventure71/GenGame)** — Python multiplayer arena and game framework
 - **[Neural Noir](https://github.com/Inventure71/Neural-Noir)** — Procedural AI-driven narrative experiment  
 - **[HoloVinyl](https://github.com/Inventure71/HoloVinyl)** — Computer vision gesture controller for touchless UI  
 - **[VictorIA](https://github.com/Inventure71/VictorIA)** — Game AI perception + decision-making system  
-- **[AlgorithmsProject](https://github.com/Inventure71/AlgorithmsProject)** — Pathfinding & game-logic experiments in Python/Pygame  
+- **[AlgorithmsProject](https://github.com/Inventure72/AlgorithmsProject)** — Python/Pygame strategy game with deck building, troop placement, and a bot opponent
 - **[TypeCraft](https://github.com/Inventure71/TypeCraft)** — Human typing simulator for macOS
-- **[GDG Website](https://github.com/GDSC-IE/GDG_Hackathon_Website)** - GDG hackathon Website
+- **[GDG Website](https://github.com/GDSC-IE/GDG_Hackathon_Website)** — GDG hackathon website
+
+### Coursework & earlier research
+
+Course assignments, exercises, and study material live on **[Inventure72](https://github.com/Inventure72)**. My [portfolio](https://mgiorgetti.com) brings selected work from both accounts together.
+
+My earlier [IB Extended Essay](https://github.com/Inventure71/Extended_Essay) explores how neural-network size affects performance across different tasks.
 
 ---
 
@@ -85,7 +92,10 @@ Here are some of the tools I use:
   <a href="https://www.linkedin.com/in/matteo-giorgetti-026172247/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://mgiorgetti.kinsta.page/index.html" target="_blank">
+  <a href="https://mgiorgetti.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Inventure72">
+    <img src="https://img.shields.io/badge/-Coursework%20%C2%B7%20Inventure72-1F7AEC?style=for-the-badge&logo=github&logoColor=white" alt="Coursework on Inventure72">
   </a>
 </div>
